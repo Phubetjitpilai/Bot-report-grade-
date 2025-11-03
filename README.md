@@ -1,7 +1,9 @@
-LOGIN_URL=link_เว็ป
+```
+LOGIN_URL=link
 USER=user
 PASS=password
-TARGET_TERM_TEXT=ภาคการศึกษา
+TARGET_TERM_TEXT=REF
 REFRESH_MIN_SEC=300
 REFRESH_MAX_SEC=600
-DISCORD_WEBHOOK=webhook_discord
+DISCORD_WEBHOOK=webhook
+```
