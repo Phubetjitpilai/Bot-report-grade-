@@ -1,0 +1,7 @@
+LOGIN_URL= link เว็ป
+USER= user
+PASS= password
+TARGET_TERM_TEXT=
+REFRESH_MIN_SEC=300
+REFRESH_MAX_SEC=600
+DISCORD_WEBHOOK= webhook discord
